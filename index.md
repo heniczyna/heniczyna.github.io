@@ -5,3 +5,5 @@
 ### List of repositories:
 1. First repo
 2. Second repo
+
+![Example image](https://github.com/heniczyna/heniczyna.github.io/blob/master/images/n3.png)
