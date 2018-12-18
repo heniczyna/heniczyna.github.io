@@ -10,9 +10,13 @@
   * some description
   * some further description
 
-Quote
+### Quote
 > this is example of quote!
 
+### Code
+1. One line of code
+`var example = true`
+2. Block of code with declaration of language which has been used
 ```C
 if (isAwesome){
   return true
