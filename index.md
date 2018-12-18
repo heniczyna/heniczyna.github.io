@@ -16,12 +16,15 @@
 ### Code
 1. One line of code
 `var example = true`
-
 2. Block of code with declaration of language which has been used
 ```C
 if (isAwesome){
   return true
 }
 ```
+
+### Task list
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 ![Example image](/images/n3.png)
