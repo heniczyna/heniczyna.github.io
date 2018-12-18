@@ -28,3 +28,5 @@ if (isAwesome){
 - [ ] This is an incomplete item
 
 ![Example image](/images/n3.png)
+
+# Note, unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
