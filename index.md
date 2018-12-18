@@ -24,7 +24,7 @@ if (isAwesome){
 ```
 
 ### Task list
-  [x] This is a complete item
-  [ ] This is an incomplete item
+ -[x] This is a complete item
+ -[ ] This is an incomplete item
 
 ![Example image](/images/n3.png)
