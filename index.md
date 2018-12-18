@@ -29,4 +29,4 @@ if (isAwesome){
 
 ![Example image](/images/n3.png)
 
-# Note, unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
+### Note, unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
