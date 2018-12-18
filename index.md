@@ -1,1 +1,2 @@
-## Welcome to [https://heniczyna.github.io/]
+## Welcome to my [page](https://heniczyna.github.io/)
+[www.test.pl]
