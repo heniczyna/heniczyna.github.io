@@ -7,8 +7,8 @@
 ### List of repositories:
 1. First repo
 2. Second repo
-  * some description
-  * some further description
+   * some description
+   * some further description
 
 ### Quote
 > this is example of quote!
