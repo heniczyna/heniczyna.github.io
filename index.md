@@ -1,9 +1,7 @@
 ## Welcome to my [https://heniczyna.github.io/](https://heniczyna.github.io/)
 
-### It is nice *cover* for **Github** ~~repositories~~
+### It is nice *cover* for *Github* ~~repositories~~
 
 ### List of repositories:
 1. First repo
 2. Second repo
-..* some description for the second repo
-
