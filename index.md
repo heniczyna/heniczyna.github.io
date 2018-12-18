@@ -7,5 +7,6 @@
 ### List of repositories:
 1. First repo
 2. Second repo
-
+  * some description
+  * some further description
 ![Example image](/images/n3.png)
