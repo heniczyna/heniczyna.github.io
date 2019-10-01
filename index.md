@@ -1,6 +1,6 @@
 ## Welcome to my [https://heniczyna.github.io/](https://heniczyna.github.io/)
 
-Testing link [KLIK!](https://heniczyna.github.io/html5up-dopetrope_excercise)
+Testing link [KLIK!](https://heniczyna.github.io/html5up-dopetrope_exercise/)
 
 ### It is nice *cover* for *Github* ~~repositories~~
 
