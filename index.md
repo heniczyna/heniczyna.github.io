@@ -5,6 +5,7 @@
    
    Wolny, darmowy, responsywny wzór HTML5
 
-![](/images/private_small_tiger.png)
+![](/images/private_small_tiger.PNG)
 
-### Note, unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
+### Note
+unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
