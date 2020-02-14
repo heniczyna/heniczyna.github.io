@@ -10,6 +10,4 @@ unfortunately not every option of formatting works well, for example emoji, or c
 
 ![](/images/private_small_tiger_no_bg.png)
 
-![](/images/private_small_tiger.PNG)
-
 ![](/images/private_small_snake_no_bg.png)
