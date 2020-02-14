@@ -9,3 +9,5 @@
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
 
 ![](/images/private_small_tiger_no_bg.png)
+
+![](/images/private_small_snake_no_bg.png)
