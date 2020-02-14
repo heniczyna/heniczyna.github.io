@@ -1,34 +1,10 @@
-## Welcome to my [https://heniczyna.github.io/](https://heniczyna.github.io/)
-
-Testing link [KLIK!](https://heniczyna.github.io/html5up-dopetrope_exercise/)
-
-### It is nice *cover* for *Github* ~~repositories~~
-
-:poland:
-
+# Welcome to my [https://heniczyna.github.io/](https://heniczyna.github.io/)
+## It is nice cover for *GitHub* repositories
 ### List of repositories:
-1. First repo
-2. Second repo
-  * some description
-  * some further description
+1. [html5up-dopetrope_exercise](https://heniczyna.github.io/html5up-dopetrope_exercise/)
+   
+   Wolny, darmowy, responsywny wzór HTML5
 
-### Quote
-> this is example of quote!
-
-### Code
-1. One line of code
-`var example = true`
-2. Block of code with declaration of language which has been used
-```java
-if (isAwesome){
-  return true
-}
-```
-
-### Task list
-- [x] This is a complete item
-- [ ] This is an incomplete item
-
-![Example image](/images/n3.png)
+![](/images/private_small_tiger.png)
 
 ### Note, unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
