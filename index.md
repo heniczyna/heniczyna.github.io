@@ -5,11 +5,9 @@
    
    Wolny, darmowy, responsywny wzór HTML5
 
-2. [travis_ci_python_hello_world](https://github.com/heniczyna/travis_ci_python_hello_world)
+2. [travis_ci_python_hello_world](https://heniczyna.github.io/travis_ci_python_hello_world/)
 
    Test narzędzia do CI (Continuous Integration)
-
-
 
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
