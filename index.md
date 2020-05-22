@@ -9,6 +9,10 @@
 
    Test narzędzia do CI (Continuous Integration)
 
+3. [travis_ci_resizing_images](https://heniczyna.github.io/travis_ci_resizing_images/)
+
+   Narzędzie do zmniejszania obrazków. Kolejny test Travis CI.
+
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
 
