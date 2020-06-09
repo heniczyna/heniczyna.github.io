@@ -12,6 +12,10 @@
 3. [travis_ci_resizing_images](https://heniczyna.github.io/travis_ci_resizing_images/)
 
    Narzędzie do zmniejszania obrazków. Kolejny test Travis CI.
+  
+4. [colab_import](https://heniczyna.github.io/colab_import/)
+
+   Testowanie otwierania w Google Colab notebooków bezpośrednio z Github.
 
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
