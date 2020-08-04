@@ -16,6 +16,10 @@
 4. [colab_import](https://heniczyna.github.io/colab_import/)
 
    Testowanie otwierania w Google Colab notebooków bezpośrednio z Github.
+   
+5. [emerald](https://heniczyna.github.io/emerald/)
+
+   Próba wykorzystania [motywu Jekyll](https://jekyllthemes.io/theme/emerald) i odpalenia go, wykorzystując GitHub Pages.
 
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
