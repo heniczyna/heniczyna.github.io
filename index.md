@@ -17,7 +17,7 @@
 
    Testowanie otwierania w Google Colab notebooków bezpośrednio z Github.
    
-5. [emerald](https://heniczyna.github.io/emerald/)
+5. [blog](https://heniczyna.github.io/blog/)
 
    Próba wykorzystania [motywu Jekyll](https://jekyllthemes.io/theme/emerald) i odpalenia go, wykorzystując GitHub Pages.
 
