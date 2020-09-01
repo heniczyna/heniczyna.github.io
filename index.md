@@ -20,6 +20,10 @@
 5. [blog](https://heniczyna.github.io/blog/)
 
    Próba wykorzystania [motywu Jekyll](https://jekyllthemes.io/theme/emerald) i odpalenia go, wykorzystując GitHub Pages.
+   
+6. [html5up-massively](https://heniczyna.github.io/html5up-massively/)
+   
+   Next try to use one of HTML5 templates with GitHub Pages to setup and host your webpage.
 
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
