@@ -25,6 +25,10 @@
    
    Next try to use one of HTML5 templates with GitHub Pages to setup and host your webpage.
 
+7. [3d-card-effect](https://heniczyna.github.io/3d-card-effect/)
+   
+   Playing around with 3d animations in web browser.
+
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
 
