@@ -37,6 +37,10 @@
 
    This is first attempt to work with [LottieFiles](https://lottiefiles.com/), collection of animations designed for [Lottie](https://airbnb.design/lottie/) (following their site, Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.)
 
+10. [easybank_landing_page](https://heniczyna.github.io/easybank_landing_page/)
+
+   Using HTML, CSS, JS to create some landing page.
+
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
 
