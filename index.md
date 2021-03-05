@@ -44,6 +44,10 @@
 11. [www_video_background](https://heniczyna.github.io/www_video_background/)
 
     Using HTML, CSS, JS to create some landing page with looping video background.
+    
+12. [www_blur_effect](https://heniczyna.github.io/www_blur_effect/)
+    
+    Using HTML, CSS to create some landing page with blur effect.
 
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
