@@ -49,6 +49,10 @@
     
     Using HTML, CSS to create some landing page with blur effect.
 
+13. [www_fullscreen_landing_page](https://heniczyna.github.io/www_fullscreen_landing_page/)
+
+    Using HTML, CSS to create some landing page with fullscreen background.
+
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
 
