@@ -53,6 +53,10 @@
 
     Using HTML, CSS to create some landing page with fullscreen background.
 
+14. [www_fullscreen_image_slider](https://heniczyna.github.io/www_fullscreen_image_slider/)
+
+    Using HTML, CSS, JS to create fullscreen image slider.
+
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
 
