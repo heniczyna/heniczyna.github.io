@@ -56,6 +56,10 @@
 14. [www_fullscreen_image_slider](https://heniczyna.github.io/www_fullscreen_image_slider/)
 
     Using HTML, CSS, JS to create fullscreen image slider.
+    
+15. [www_portfolio](https://heniczyna.github.io/www_portfolio/)
+
+    Using HTML, CSS, JS to create responsive portfolio.
 
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
