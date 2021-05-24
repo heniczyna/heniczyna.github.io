@@ -44,6 +44,7 @@
 11. [www_video_background](https://heniczyna.github.io/www_video_background/)
 
     Using HTML, CSS, JS to create some landing page with looping video background. JavaScript placed in [index.html](https://github.com/heniczyna/www_video_background/blob/master/index.html) between `<script></script>` tags.
+  * Another try to play with video background where no transition between start and finish is noticeable [www_video_background_noise](https://heniczyna.github.io/www_video_background_noise/)
 
 12. [www_blur_effect](https://heniczyna.github.io/www_blur_effect/)
     
