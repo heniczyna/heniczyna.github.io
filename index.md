@@ -33,7 +33,7 @@
 
    This is first attempt to work with Figma, tool for designing user interface.
    
-   [Sign_up_form](https://heniczyna.github.io/Sign_up_form/)
+   [figma_sign_up_form](https://heniczyna.github.io/figma_sign_up_form/)
    
    This is next excercise with Figma.
 
