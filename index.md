@@ -32,6 +32,10 @@
 8. [figma_starting_page](https://heniczyna.github.io/figma_starting_page/)
 
    This is first attempt to work with Figma, tool for designing user interface.
+   
+   [Sign_up_form](https://heniczyna.github.io/Sign_up_form/)
+   
+   This is next excercise with Figma.
 
 9. [lottiefiles_confetti_example](https://heniczyna.github.io/lottiefiles_confetti_example/)
 
