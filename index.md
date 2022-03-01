@@ -71,7 +71,7 @@
     
 16. [siemankomarcin](https://heniczyna.github.io/siemankomarcin/)
 
-   Refreshment of HTML and SCSS.
+    Refreshment of HTML and SCSS.
 
 ### Note
 unfortunately not every option of formatting works well, for example emoji, or code highlighting or task list (additional dots that should not have appeared), anyway looks quite fancy :smile:
